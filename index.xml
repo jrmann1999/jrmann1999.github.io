@@ -6,14 +6,14 @@
     <description>Recent content on Network Knowledge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Jul 2022 08:03:38 -0500</lastBuildDate><atom:link href="https://jrmann1999.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jul 2022 09:19:22 -0500</lastBuildDate><atom:link href="https://jrmann1999.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Post</title>
-      <link>https://jrmann1999.github.io/posts/test-post/</link>
-      <pubDate>Fri, 08 Jul 2022 08:03:38 -0500</pubDate>
+      <title>First</title>
+      <link>https://jrmann1999.github.io/posts/first/</link>
+      <pubDate>Fri, 08 Jul 2022 09:19:22 -0500</pubDate>
       
-      <guid>https://jrmann1999.github.io/posts/test-post/</guid>
-      <description>Testing Post</description>
+      <guid>https://jrmann1999.github.io/posts/first/</guid>
+      <description>This is the first post to Hugo, using github pages. Just testing for now!</description>
     </item>
     
   </channel>
