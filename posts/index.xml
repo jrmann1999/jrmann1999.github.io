@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Network Knowledge</title>
-    <link>http://example.org/posts/</link>
+    <link>https://jrmann1999.github.io/posts/</link>
     <description>Recent content in Posts on Network Knowledge</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Jul 2022 08:03:38 -0500</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jul 2022 08:03:38 -0500</lastBuildDate><atom:link href="https://jrmann1999.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Post</title>
-      <link>http://example.org/posts/test-post/</link>
+      <link>https://jrmann1999.github.io/posts/test-post/</link>
       <pubDate>Fri, 08 Jul 2022 08:03:38 -0500</pubDate>
       
-      <guid>http://example.org/posts/test-post/</guid>
+      <guid>https://jrmann1999.github.io/posts/test-post/</guid>
       <description>Testing Post</description>
     </item>
     
